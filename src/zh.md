@@ -84,7 +84,7 @@ title: 只读评介
 
     《蝉语独白》目前只有中文版。
 
-  - 《Readonly.Link 手册》介绍了如何用 [Readonly.Link](https://readonly.link)
+  - 《只读链接手册》介绍了如何用 [Readonly.Link](https://readonly.link)
     来渲染各式各样的文档。比如，可以渲染类型有 Article、Book 和 Manual。
 
     ``` metadata
@@ -94,7 +94,8 @@ title: 只读评介
       kind: Manual
       link: github.com/readonlylink/readonlylink-manual
       attributes:
-        title: Readonly.Link Manual
+        title: 只读链接手册
+        subtitle: Readonly.Link Manual
         authors: [谢宇恒]
         year: 2022
     ```
