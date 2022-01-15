@@ -1,7 +1,3 @@
----
-title: Readonly Reviews
----
-
 - [review-list]
 
   - *Cicada Language Manual* is the author's manual for a language he designed,
