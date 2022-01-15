@@ -72,7 +72,7 @@ title: 只读评介
     date: 2022-01-15
     target:
       kind: Book
-      link: github.com/cicada-lang/cicada
+      link: github.com/xieyuheng/cicada-monologues
       attributes:
         title: 蝉语独白
         subtitle: Cicada Monologues
