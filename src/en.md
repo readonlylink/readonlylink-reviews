@@ -4,9 +4,8 @@ title: Readonly Reviews
 
 - [review-list]
 
-  - *Cicada Language Manual* is a `Manual` written by the author for a language he designed.
-
-    The language is both a *dependently typed programming language*
+  - *Cicada Language Manual* is the author's manual for a language he designed,
+    -- both a *dependently typed programming language*
     and an *interactive theorem prover*.
 
     ``` metadata
@@ -22,7 +21,7 @@ title: Readonly Reviews
     ```
 
   - *Readonly.Link Manual* is a guide for using [Readonly.Link](https://readonly.link)
-    to render all kinds of documents, such as `Article`, `Book` and `Manual`.
+    to render all kinds of documents, such as Article, Book and Manual.
 
     ``` metadata
     by: Xie Yuheng
