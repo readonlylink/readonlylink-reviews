@@ -29,7 +29,7 @@ title: 只读评介
     而这个译本的译者 Olivia Han，
     是知名优质中文社区 [V2EX](https://www.v2ex.com/?r=xieyuheng) 的创始人。
 
-    附：[译者关于 V2EX 所接受的采访](https://www.ifanr.com/22202)
+    [附：译者关于 V2EX 所接受的采访](https://www.ifanr.com/22202)
 
 
     ``` metadata
