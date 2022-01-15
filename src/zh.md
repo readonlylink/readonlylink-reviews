@@ -48,7 +48,7 @@ title: 只读评介
     《蝉语独白》目前只有中文版。
 
   - 《Readonly.Link 手册》介绍了如何用 [Readonly.Link](https://readonly.link)
-    来渲染各式各样的文档。比如，可以渲染类型有 Article、Book 和 Manual。
+    来渲染各式各样的文档。比如，可以渲染类型有 `Article`、`Book` 和 `Manual`。
 
     ``` metadata
     by: 谢宇恒
