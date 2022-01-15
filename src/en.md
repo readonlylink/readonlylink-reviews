@@ -1,6 +1,5 @@
 ---
 title: Readonly Reviews
-kind: ReviewList
 ---
 
 - [review-list]
