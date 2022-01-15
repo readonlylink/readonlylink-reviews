@@ -6,7 +6,7 @@ title: 只读评介
 
   - 《蝉语手册》是蝉语的作者为他设计的程序语言所写的手册。
 
-    ``` review
+    ``` metadata
     by: 谢宇恒
     date: 2022-01-15
     target:
