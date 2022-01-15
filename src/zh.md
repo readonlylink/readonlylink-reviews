@@ -48,7 +48,8 @@ title: 只读评介
       kind: Manual
       link: gitlab.com/cicada-lang/cicada
       attributes:
-        title: 蝉语手册 / Cicada Language Manual
+        title: 蝉语手册
+        subtitle: Cicada Language Manual
         authors: [谢宇恒]
         year: 2022
     ```
@@ -73,7 +74,8 @@ title: 只读评介
       kind: Book
       link: gitlab.com/cicada-lang/cicada
       attributes:
-        title: 蝉语独白 / Cicada Monologues
+        title: 蝉语独白
+        subtitle: Cicada Monologues
         authors: [谢宇恒]
         year: 2022
     ```
