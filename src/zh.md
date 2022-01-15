@@ -13,7 +13,7 @@ title: 只读评介
     date: 2022-01-16
     target:
       kind: Book
-      link: gitlab.com/ShadowRZ/minoko-novel
+      link: github.com/ShadowRZ/minoko-novel
       attributes:
         title: Minoko Novel
         subtitle: Arch Linux CN x Persona Series
@@ -72,7 +72,7 @@ title: 只读评介
     date: 2022-01-15
     target:
       kind: Book
-      link: gitlab.com/cicada-lang/cicada
+      link: github.com/cicada-lang/cicada
       attributes:
         title: 蝉语独白
         subtitle: Cicada Monologues
