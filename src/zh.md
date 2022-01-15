@@ -22,13 +22,10 @@ title: 只读评介
     ```
 
   - 这本书讲的是「程序员创业」。
-
     作者署名 37signals 所代表的，是一个知名的网络应用公司，
     他们的团队创造了 Ruby on Rails 这个网络应用框架。
-
     而这个译本的译者 Olivia Han，
     是知名优质中文社区 [V2EX](https://www.v2ex.com/?r=xieyuheng) 的创始人。
-
     [附：译者关于 V2EX 所接受的采访](https://www.ifanr.com/22202)
 
 
