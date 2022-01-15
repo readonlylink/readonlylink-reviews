@@ -4,6 +4,46 @@ title: 只读评介
 
 - [review-list]
 
+  - 《Minoko Novel》是 [夜坂雅](https://github.com/ShadowRZ) 的连载小说。
+    由「女神异闻录」中的虚构角色，与真实的 #archlinux-cn 社区成员，一一对应而展开故事。
+    多角色、多视角、多条叙事线索并行，并且每个角色之间都有一些交集。
+
+    ``` metadata
+    by: 谢宇恒
+    date: 2022-01-16
+    target:
+      kind: Book
+      link: gitlab.com/ShadowRZ/minoko-novel
+      attributes:
+        title: Minoko Novel
+        subtitle: Arch Linux CN x Persona Series
+        authors: [夜坂雅]
+        date: 2021
+    ```
+
+  - 这本书讲的是「程序员创业」。
+
+    作者署名 37signals 所代表的，是一个知名的网络应用公司，
+    他们的团队创造了 Ruby on Rails 这个网络应用框架。
+
+    而这个译本的译者 Olivia Han，
+    是知名优质中文社区 [V2EX](https://www.v2ex.com/?r=xieyuheng) 的创始人。
+
+    附：[译者关于 V2EX 所接受的采访](https://www.ifanr.com/22202)
+
+
+    ``` metadata
+    by: 谢宇恒
+    date: 2022-01-16
+    target:
+      kind: Book
+      link: github.com/xieyuheng/rework
+      attributes:
+        title: REWORK
+        authors: [37signals, Olivia Han]
+        date: 2010
+    ```
+
   - 《蝉语手册》是蝉语的作者为他设计的程序语言所写的手册。
 
     ``` metadata
