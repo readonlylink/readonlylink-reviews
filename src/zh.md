@@ -54,7 +54,8 @@ title: 只读评介
       link: github.com/xieyuheng/rework
       attributes:
         title: REWORK
-        authors: [37signals, Olivia Han]
+        author: 37signals
+        translator: Olivia Han
         date: 2010
     ```
 
