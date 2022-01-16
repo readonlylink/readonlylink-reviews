@@ -4,6 +4,25 @@ title: 只读评介
 
 - [review-list]
 
+  - V.V. 是 2002 年的北京的菲尔兹奖的主。
+    从这个关于数学基础的演讲中，
+    读者可以体会到到一位世界顶级数学家的心路历程。
+
+    ``` metadata
+    by: 谢宇恒
+    date: 2022-01-16
+    target:
+      kind: Article
+      link: github.com/xieyuheng/inner/-/translations/zh/how-i-became-interested-in-foundations-of-mathematics.md
+      attributes:
+        title: 我是如何开始关心数学基础的
+        subtitle: How I became interested in foundations of mathematics
+        author: Vladimir Voevodsky
+        translator: 谢宇恒
+        year: 2015
+        venue: 泰国，第九届亚洲科学营
+    ```
+
   - 《Minoko Novel》是 [夜坂雅](https://github.com/ShadowRZ) 的连载小说。
     由「女神异闻录」中的虚构角色，与真实的 #archlinux-cn 社区成员，一一对应而展开故事。
     多角色、多视角、多条叙事线索并行，并且每个角色之间都有一些交集。
