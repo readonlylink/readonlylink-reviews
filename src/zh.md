@@ -37,7 +37,7 @@ title: 只读评介
         title: Minoko Novel
         subtitle: Arch Linux CN x Persona Series
         authors: [夜坂雅]
-        date: 2021
+        year: 2021
     ```
 
   - 这本书讲的是程序员如何创业。
@@ -56,7 +56,7 @@ title: 只读评介
         title: REWORK
         author: 37signals
         translator: Olivia Han
-        date: 2010
+        year: 2010
     ```
 
   - 《蝉语手册》是蝉语的作者为他设计的程序语言所写的手册。
