@@ -13,7 +13,7 @@ title: Readonly Reviews
     date: 2022-01-16
     target:
       kind: Article
-      link: github.com/xieyuheng/inner/-/persons/vladimir-voevodsky/how-i-became-interested-in-foundations-of-mathematics.md
+      link: xieyuheng/inner/-/persons/vladimir-voevodsky/how-i-became-interested-in-foundations-of-mathematics.md
       attributes:
         title: How I became interested in foundations of mathematics
         author: Vladimir Voevodsky
@@ -30,7 +30,7 @@ title: Readonly Reviews
     date: 2022-01-15
     target:
       kind: Manual
-      link: gitlab.com/cicada-lang/cicada
+      link: cicada-lang/cicada
       attributes:
         title: Cicada Language Manual
         authors: [Xie Yuheng]
@@ -45,7 +45,7 @@ title: Readonly Reviews
     date: 2022-01-15
     target:
       kind: Manual
-      link: github.com/readonlylink/readonlylink-manual
+      link: readonlylink/readonlylink-manual
       attributes:
         title: Readonly.Link Manual
         authors: [Xie Yuheng]
