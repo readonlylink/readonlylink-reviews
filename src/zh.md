@@ -90,7 +90,7 @@ title: 只读评介
     date: 2022-01-15
     target:
       kind: Book
-      link: github.com/xieyuheng/cicada-monologues
+      link: xieyuheng/cicada-monologues
       attributes:
         title: 蝉语独白
         subtitle: Cicada Monologues
@@ -106,7 +106,7 @@ title: 只读评介
     date: 2022-01-15
     target:
       kind: Manual
-      link: github.com/readonlylink/readonlylink-manual
+      link: readonlylink/readonlylink-manual
       attributes:
         title: 只读链接手册
         subtitle: Readonly.Link Manual
