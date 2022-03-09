@@ -13,7 +13,7 @@ title: Readonly Reviews
     date: 2022-01-16
     target:
       kind: Article
-      link: xieyuheng/inner/-/persons/vladimir-voevodsky/how-i-became-interested-in-foundations-of-mathematics.md
+      link: xieyuheng/xieyuheng/-/persons/vladimir-voevodsky/how-i-became-interested-in-foundations-of-mathematics.md
       attributes:
         title: How I became interested in foundations of mathematics
         author: Vladimir Voevodsky

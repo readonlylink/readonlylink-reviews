@@ -13,7 +13,7 @@ title: 只读评介
     date: 2022-01-16
     target:
       kind: Article
-      link: xieyuheng/inner/-/translations/zh/how-i-became-interested-in-foundations-of-mathematics.md
+      link: xieyuheng/xieyuheng/-/translations/zh/how-i-became-interested-in-foundations-of-mathematics.md
       attributes:
         title: 我是如何开始关心数学基础的
         subtitle: How I became interested in foundations of mathematics
